@@ -1,0 +1,15 @@
+/*
+ *CSS for bbPress-Login
+ *
+ */
+
+.bblogin {
+    margin-left:20px;
+    margin-right: 10px;
+    float: left;
+    }
+
+.bblogout {
+    margin-left:20px;
+    float: right;
+}
